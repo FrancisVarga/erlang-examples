@@ -1,7 +1,7 @@
 %% Author: francis
 %% Created: Apr 4, 2012
 %% Description: TODO: Add description to useless
--module(useless).
+-module(helloWorld).
 -compile(export_all).
 
 %%
